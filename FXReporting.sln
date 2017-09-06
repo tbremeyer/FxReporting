@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FXReporting", "FXReporting\FXReporting.csproj", "{A0FFAB1B-C702-423F-8239-8248198E16FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FxReportingService", "FxReportingService\FxReportingService.csproj", "{531D1948-A4E5-4678-82D2-2838D9DA0DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0FFAB1B-C702-423F-8239-8248198E16FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FFAB1B-C702-423F-8239-8248198E16FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FFAB1B-C702-423F-8239-8248198E16FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FFAB1B-C702-423F-8239-8248198E16FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531D1948-A4E5-4678-82D2-2838D9DA0DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531D1948-A4E5-4678-82D2-2838D9DA0DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531D1948-A4E5-4678-82D2-2838D9DA0DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531D1948-A4E5-4678-82D2-2838D9DA0DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C71352-F291-448E-A212-271B5388B494}
+	EndGlobalSection
+EndGlobal
